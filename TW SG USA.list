@@ -1,23 +1,10 @@
-# 以下规则需要海外线路
-## 4GTV & Hamivideo
-DOMAIN-SUFFIX,4gtv.tv,TW TV
-DOMAIN-SUFFIX,hinet.net,TW TV
-DOMAIN-SUFFIX,ofiii.com,TW TV
-
-## YouTube
-DOMAIN-SUFFIX,googlevideo.com,🚀 节点选择
-DOMAIN-SUFFIX,youtube.com,🚀 节点选择
-
-## MytvSuper
-DOMAIN-SUFFIX,mytvsuper.com,🚀 节点选择
-DOMAIN-SUFFIX,tvb.com,🚀 节点选择
-
 # 以下规则可自行测试能否直连，不能直连的话设置为海外代理
-DOMAIN-SUFFIX,livednow.com,🚀 节点选择
-DOMAIN-SUFFIX,livednow.org,🚀 节点选择
 DOMAIN-SUFFIX,wx.sb,🚀 节点选择
 
 ## TWTV
+DOMAIN-SUFFIX,4gtv.tv,TW TV
+DOMAIN-SUFFIX,hinet.net,TW TV
+DOMAIN-SUFFIX,ofiii.com,TW TV
 DOMAIN-KEYWORD,ofiii,TW TV
 DOMAIN-KEYWORD,svc,TW TV
 DOMAIN-KEYWORD,dscv,TW TV
