@@ -1,38 +1,100 @@
 # 以下规则可自行测试能否直连，不能直连的话设置为海外代理
-DOMAIN-SUFFIX,wx.sb,🚀 节点选择
+DOMAIN-SUFFIX,.ipify.org,🚀 节点选择
 
-## TWTV
-DOMAIN-SUFFIX,4gtv.tv,TW TV
-DOMAIN-SUFFIX,hinet.net,TW TV
-DOMAIN-SUFFIX,ofiii.com,TW TV
-DOMAIN-KEYWORD,ofiii,TW TV
-DOMAIN-KEYWORD,svc,TW TV
-DOMAIN-KEYWORD,dscv,TW TV
-DOMAIN-KEYWORD,ofissaifreetv,TW TV
-DOMAIN-KEYWORD,ofifreetv,TW TV
-DOMAIN-KEYWORD,ofifreepoctv,TW TV
-DOMAIN-KEYWORD,ofifreevctv,TW TV
-DOMAIN-KEYWORD,4gtv,TW TV
-DOMAIN-KEYWORD,hinet,TW TV
-DOMAIN-KEYWORD,4gtvcr,TW TV
-DOMAIN-KEYWORD,hamivideo,TW TV
-DOMAIN-KEYWORD,litvfreevctv,TW TV
-DOMAIN-KEYWORD,4gtvfree-mozai,TW TV
-DOMAIN-KEYWORD,static-moza,TW TV
-DOMAIN-KEYWORD,4gtvfreepc-mozai,TW TV
+# TWTV
+DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN-KEYWORD,ofiii
+DOMAIN-KEYWORD,svc
+DOMAIN-KEYWORD,dscv
+DOMAIN-KEYWORD,ofissaifreetv
+DOMAIN-KEYWORD,ofifreetv
+DOMAIN-KEYWORD,ofifreepoctv
+DOMAIN-KEYWORD,ofifreevctv
+DOMAIN-KEYWORD,4gtv
+DOMAIN-KEYWORD,hinet
+DOMAIN-KEYWORD,4gtvcr
+DOMAIN-KEYWORD,hamivideo
+DOMAIN-KEYWORD,litvfreevctv
+DOMAIN-KEYWORD,4gtvfree-mozai
+DOMAIN-KEYWORD,static-moza
+DOMAIN-KEYWORD,4gtvfreepc-mozai
 
-## encoreTVB USA TV
-DOMAIN-KEYWORD,amazonaws,USA TV
-DOMAIN-KEYWORD,brightcove,USA TV
-DOMAIN-KEYWORD,amagi,USA TV
-DOMAIN-KEYWORD,tvbaw,USA TV
-DOMAIN-KEYWORD,tvbusa,USA TV
-DOMAIN-KEYWORD,amagi,USA TV
-DOMAIN-KEYWORD,brightcovecdn,USA TV 
-DOMAIN-KEYWORD,encoretvb,USA TV
-DOMAIN-KEYWORD,tvbanywhere-us,USA TV
-DOMAIN-KEYWORD,a.akamaihd,USA TV
-DOMAIN-KEYWORD,tvbanywherena,USA TV
-DOMAIN-KEYWORD,tvbanywhereplusna,USA TV
+# encoreTVB USA TV
+DOMAIN-KEYWORD,amazonaws
+DOMAIN-KEYWORD,brightcove
+DOMAIN-KEYWORD,amagi
+DOMAIN-KEYWORD,tvbaw
+DOMAIN-KEYWORD,tvbusa
+DOMAIN-KEYWORD,amagi
+DOMAIN-KEYWORD,brightcovecdn
+DOMAIN-KEYWORD,encoretvb
+DOMAIN-KEYWORD,tvbanywhere-us
+DOMAIN-KEYWORD,a.akamaihd
+DOMAIN-KEYWORD,tvbanywherena
+DOMAIN-KEYWORD,tvbanywhereplusna
 USER-AGENT,encoreTVB*
 
+# ChatGPT OpenAi
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,chat.openai.com.cdn.cloudflare.net
+DOMAIN,gemini.google.com
+DOMAIN,openai-api.arkoselabs.com
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN,static.cloudflareinsights.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,api.statsig.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,observeit.net
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,openaicom.imgix.net
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,turn.livekit.cloud
+DOMAIN-KEYWORD,openai
+IP-CIDR,24.199.123.28/32,no-resolve
+IP-CIDR,64.23.132.171/32,no-resolve
+IP-ASN,20473,no-resolve
+DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-KEYWORD,Claude
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai.com
+DOMAIN-SUFFIX,integrate.api.nvidia.com
