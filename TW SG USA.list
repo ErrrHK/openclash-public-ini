@@ -21,7 +21,7 @@ DOMAIN-KEYWORD,4gtvfree-mozai,TW TV
 DOMAIN-KEYWORD,static-moza,TW TV
 DOMAIN-KEYWORD,4gtvfreepc-mozai,TW TV
 
-## USATV
+## encoreTVB USA TV
 DOMAIN-KEYWORD,amazonaws,USA TV
 DOMAIN-KEYWORD,brightcove,USA TV
 DOMAIN-KEYWORD,amagi,USA TV
@@ -34,3 +34,5 @@ DOMAIN-KEYWORD,tvbanywhere-us,USA TV
 DOMAIN-KEYWORD,a.akamaihd,USA TV
 DOMAIN-KEYWORD,tvbanywherena,USA TV
 DOMAIN-KEYWORD,tvbanywhereplusna,USA TV
+USER-AGENT,encoreTVB*
+
