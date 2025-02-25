@@ -1,6 +1,3 @@
-# 以下规则可自行测试能否直连，不能直连的话设置为海外代理
-DOMAIN-SUFFIX,.ipify.org,🚀 节点选择
-
 # TWTV
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
