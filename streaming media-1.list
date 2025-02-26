@@ -1,0 +1,33 @@
+# 域名关键字匹配
+
+# 4gtv、ofiii、hinet
+DOMAIN-KEYWORD,ofiii
+DOMAIN-KEYWORD,svc
+DOMAIN-KEYWORD,dscv
+DOMAIN-KEYWORD,ofissaifreetv
+DOMAIN-KEYWORD,ofifreetv
+DOMAIN-KEYWORD,ofifreepoctv
+DOMAIN-KEYWORD,ofifreevctv
+DOMAIN-KEYWORD,4gtv
+DOMAIN-KEYWORD,hinet
+DOMAIN-KEYWORD,4gtvcr
+DOMAIN-KEYWORD,hamivideo
+DOMAIN-KEYWORD,litvfreevctv
+DOMAIN-KEYWORD,4gtvfree-mozai
+DOMAIN-KEYWORD,static-moza
+DOMAIN-KEYWORD,4gtvfreepc-mozai
+
+# encoreTVB
+DOMAIN-KEYWORD,amazonaws
+DOMAIN-KEYWORD,brightcove
+DOMAIN-KEYWORD,amagi
+DOMAIN-KEYWORD,tvbaw
+DOMAIN-KEYWORD,tvbusa
+DOMAIN-KEYWORD,amagi
+DOMAIN-KEYWORD,brightcovecdn
+DOMAIN-KEYWORD,encoretvb
+DOMAIN-KEYWORD,tvbanywhere-us
+DOMAIN-KEYWORD,a.akamaihd
+DOMAIN-KEYWORD,tvbanywherena
+DOMAIN-KEYWORD,tvbanywhereplusna
+
