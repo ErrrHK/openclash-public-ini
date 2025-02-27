@@ -1,12 +1,6 @@
 # 域名关键字匹配
 
 # tbvanywhere
-DOMAIN,bcbolt446c5271-a.akamaihd.net
-DOMAIN,content.jwplatform.com
-DOMAIN,edge.api.brightcove.com
-DOMAIN,videos-f.jwpsrv.com
-DOMAIN-SUFFIX,encoretvb.com
-USER-AGENT,encoreTVB*
 DOMAIN-KEYWORD,amazonaws
 DOMAIN-KEYWORD,brightcove
 DOMAIN-KEYWORD,amagi
@@ -19,5 +13,10 @@ DOMAIN-KEYWORD,tvbanywhere-us
 DOMAIN-KEYWORD,a.akamaihd
 DOMAIN-KEYWORD,tvbanywherena
 DOMAIN-KEYWORD,tvbanywhereplusna
-
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,content.jwplatform.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,videos-f.jwpsrv.com
+DOMAIN-SUFFIX,encoretvb.com
+USER-AGENT,encoreTVB*
 
