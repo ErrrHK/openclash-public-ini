@@ -30,6 +30,9 @@ DOMAIN-SUFFIX,hinet.net
 DOMAIN-KEYWORD,4gtv
 DOMAIN-SUFFIX,onead.com.tw
 
+# liTV
+DOMAIN-SUFFIX,litv.tv
+
 # linetv
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,polyfill.io
