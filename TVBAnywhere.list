@@ -13,6 +13,11 @@ DOMAIN-KEYWORD,tvbanywhere-us
 DOMAIN-KEYWORD,a.akamaihd
 DOMAIN-KEYWORD,tvbanywherena
 DOMAIN-KEYWORD,tvbanywhereplusna
+DOMAIN-SUFFIX,tvbanywherena.com
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN,content.jwplatform.com
+DOMAIN,edge.api.brightcove.com
+DOMAIN,videos-f.jwpsrv.com
 DOMAIN-SUFFIX,encoretvb.com
 USER-AGENT,encoreTVB*
 
