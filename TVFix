@@ -1,0 +1,8 @@
+# iptv.tvfix.org 电视侠
+# 域名匹配和关键字匹配
+# tvfix
+
+DOMAIN-KEYWORD,tvfix
+DOMAIN-SUFFIX,iptv.tvfix.org
+DOMAIN-SUFFIX,tvfix.org
+
