@@ -2,5 +2,6 @@
 # 域名匹配和关键字匹配
 # iptv345
 
+DOMAIN,https://iptv345.com/?tid=gt
 DOMAIN-SUFFIX,iptv345.com
 DOMAIN-KEYWORD,iptv345
