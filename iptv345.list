@@ -1,7 +1,6 @@
 # iptv345.com 港澳台
 # 域名匹配和关键字匹配
 # iptv345
-
-DOMAIN,iptv345.com/?tid=gt
+DOMAIN,iptv345.com
 DOMAIN-SUFFIX,iptv345.com
 DOMAIN-KEYWORD,iptv345
