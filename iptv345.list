@@ -1,6 +1,6 @@
-# iptv345.com 电视侠
-# 域名匹配和关键字匹配
-# iptv345.
+# iptv345.com 電視直播
+# 域名匹配和關鍵安匹配
+# iptv345
 DOMAIN-KEYWORD,iptv345
 DOMAIN-SUFFIX,iptv345.com
-DOMAIN,iptv345.com/?tid=gt
+DOMAIN,iptv345.com
