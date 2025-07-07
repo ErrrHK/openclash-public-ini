@@ -1,4 +1,5 @@
 # 域名关键字匹配
+
 # tbvanywhere
 DOMAIN-KEYWORD,amazonaws
 DOMAIN-KEYWORD,brightcove
@@ -19,4 +20,12 @@ DOMAIN,edge.api.brightcove.com
 DOMAIN,videos-f.jwpsrv.com
 DOMAIN-SUFFIX,encoretvb.com
 USER-AGENT,encoreTVB*
+
+# pluto.TV
+DOMAIN-KEYWORD,pluto
+DOMAIN-SUFFIX,pluto.tv
+
+# tubitv.com
+DOMAIN-KEYWORD,tubitv
+DOMAIN-SUFFIX,tubitv.com
 
