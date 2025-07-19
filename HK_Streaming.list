@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,tvb.com
 DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,rthklive
 USER-AGENT,mytv*
+DOMAIN-SUFFIX,tvb-mytvsuper.servicebus.windows.net
+DOMAIN-SUFFIX,asia-east2-tvb-eshopping-dev.cloudfunctions.net
 DOMAIN-SUFFIX,ads.cdn.tvb.com,REJECT
 DOMAIN-SUFFIX,googleads.g.doubleclick.net,REJECT
 DOMAIN-SUFFIX,i1.ads.vip.hk4.tvb.com,REJECT
