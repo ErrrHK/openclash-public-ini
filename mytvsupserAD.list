@@ -1,0 +1,21 @@
+# mytvsper 去广告AD
+
+DOMAIN-SUFFIX,ads.cdn.tvb.com,REJECT
+DOMAIN-SUFFIX,googleads.g.doubleclick.net,REJECT
+DOMAIN-SUFFIX,i1.ads.vip.hk4.tvb.com,REJECT
+DOMAIN-SUFFIX,mobile-events.eservice.emarsys.net,REJECT
+DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net,REJECT
+DOMAIN-SUFFIX,admob.com,REJECT
+DOMAIN-SUFFIX,api.superstore.tvb.com,REJECT
+DOMAIN-SUFFIX,doubleclick.net,REJECT
+DOMAIN-SUFFIX,doubleclickbygoogle.com,REJECT
+DOMAIN-SUFFIX,googlesyndication.com,REJECT
+DOMAIN-SUFFIX,tvb-message-center.appspot.com,REJECT
+DOMAIN-SUFFIX,umeng.com,REJECT
+DOMAIN-SUFFIX,ads.cdn.tvb.com,REJECT
+DOMAIN-SUFFIX,googleads.g.doubleclick.net,REJECT
+DOMAIN-SUFFIX,i1.ads.vip.hk4.tvb.com,REJECT
+DOMAIN-SUFFIX,mobile-events.eservice.emarsys.net,REJECT
+DOMAIN-SUFFIX,mytvsuperlimited.sc.omtrdc.net,REJECT
+DOMAIN-SUFFIX,admob.com,REJECT
+DOMAIN-SUFFIX,api.superstore.tvb.com,REJECT
