@@ -10,9 +10,9 @@ DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,rthklive
+DOMAIN-SUFFIX,tvb-mytvsuper.servicebus.windows.net
+DOMAIN-SUFFIX,asia-east2-tvb-eshopping-dev.cloudfunctions.net
 USER-AGENT,mytv*
-DOMAIN,tvb-mytvsuper.servicebus.windows.net
-DOMAIN,asia-east2-tvb-eshopping-dev.cloudfunctions.net
 
 # ViuTV 
 # 引用 https://whatshub.top/rule/ViuTV.list
