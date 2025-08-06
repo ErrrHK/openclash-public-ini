@@ -1,6 +1,5 @@
 # mytvsper 去广告AD
 
-DOMAIN-SUFFIX,td.doubleclick.net
 DOMAIN-SUFFIX,ads.cdn.tvb.com
 DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,i1.ads.vip.hk4.tvb.com
