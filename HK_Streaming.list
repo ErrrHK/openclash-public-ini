@@ -12,6 +12,7 @@ DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,rthklive
 DOMAIN-SUFFIX,tvb-mytvsuper.servicebus.windows.net
 DOMAIN-SUFFIX,asia-east2-tvb-eshopping-dev.cloudfunctions.net
+DOMAIN-SUFFIX,td.doubleclick.net
 USER-AGENT,mytv*
 
 # ViuTV 
